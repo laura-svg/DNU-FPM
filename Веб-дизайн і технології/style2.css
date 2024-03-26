@@ -1,0 +1,55 @@
+body {
+    background-color: DarkSlateBlue;
+   
+	 font-size: 10px;
+ 
+  	 font-family: "Helvetica";
+    
+	 text-align: justify;
+   
+         color: Lavender;
+}
+
+
+a:link {  
+    color: Fuchsia;
+}
+
+
+a:visited {   
+    color: DarkRed;
+}
+
+
+p:hover {
+    color: MediumPurple;
+    
+	     text-decoration: underline;
+}
+
+
+h1 {
+    color: Orchid;
+}
+
+h2 {
+    color:Indigo;
+}
+
+
+img {  
+    display: block;
+   
+	   margin-left: auto;
+    
+	   margin-right: auto;
+    
+	transition: .1.5s;
+}
+
+ 
+img:hover {
+    border: 2px DeepSkyBlue;
+    
+		transform: scale(2);
+}
